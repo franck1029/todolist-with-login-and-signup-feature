@@ -1,0 +1,17 @@
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGOUT = 'LOGOUT';
+export const ADD_TASK_SUCCESS = 'ADD_TASK_SUCCESS';
+export const ADD_TASK_FAIL = 'ADD_TASK_FAIL';
+export const SHOW_TASKS_SUCCESS = 'SHOW_TASKS_SUCCESS';
+export const SHOW_TASKS_FAIL = 'SHOW_TASKS_FAIL';
+export const DELETE_TASK_SUCCESS = ' DELETE_TASK_SUCCESS';
+export const DELETE_TASK_FAIL = ' DELETE_TASK_FAIL';
+export const DONE_TASK_SUCCESS = ' DONE_TASK_SUCCESS';
+export const DONE_TASK_FAIL = ' DONE_TASK_FAIL';

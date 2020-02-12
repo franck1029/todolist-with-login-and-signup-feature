@@ -1,0 +1,19 @@
+todo tomorrow: 
+wake @7am
+breakfast
+
+
+coding = {
+	backend: [
+	setup server,
+	routes,
+	models, 
+	test in postman
+	],
+	frontend: [
+	setup react,
+	setup store,
+	practice the html,
+
+	]
+}
